@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "474977028058",
+    "firebase_url": "https://safesleep-cbb18-default-rtdb.firebaseio.com",
+    "project_id": "safesleep-cbb18",
+    "storage_bucket": "safesleep-cbb18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474977028058:android:5a9ea077524bb0a6f422e3",
+        "android_client_info": {
+          "package_name": "com.example.safe_sleep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqF_16UdmWFIOmkDcMsU9vipbY-WO-QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
